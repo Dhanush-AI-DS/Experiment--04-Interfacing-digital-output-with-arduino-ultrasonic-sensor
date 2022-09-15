@@ -1,7 +1,7 @@
 # EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
 
 ## NAME: DHANUSH.S
-## REGISTER NUMBER:2100
+## REGISTER NUMBER:212221230020
 
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
